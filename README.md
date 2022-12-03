@@ -1,2 +1,2 @@
 # Financify
-Developed a clean &amp; Responsive web-application for expense trace &amp; manage expenses with PyChart Diagram using Flask as backend.
+Developed a clean &amp; Responsive web-application for trace &amp; manage your daily life expenses with Pie Chart Representaion using Flask as backend.
